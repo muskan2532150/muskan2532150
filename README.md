@@ -4,7 +4,7 @@
 </h3>
 
 <div align="center">
-<img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Muskan+Profile!+%F0%9F%98%80" ></div>
+<img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
 
 
 

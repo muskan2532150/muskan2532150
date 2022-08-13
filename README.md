@@ -1,11 +1,11 @@
 <h3 align ="center">
-<a href='https://readme-typing-svg.herokuapp.com/?lines=Hi+there+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">;Welcome+to+Muskan+Gupta+Profile'</a>
+ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<a href='https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Muskan+Gupta+Profile'</a>
 </h3>
 
 <!-- Adding social media Icons -->
 <p align="center">
- <a href="https://www.linkedin.com/in/muskan-gupta-869165225/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-
+ <a href="https://www.linkedin.com/in/muskan-gupta-869165225/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"></a>
 </p>
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>

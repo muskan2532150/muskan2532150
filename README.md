@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;I+am+Muskan+Gupta)](https://git.io/typing-svg)
 
 <!--
 **muskan2532150/muskan2532150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

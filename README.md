@@ -35,6 +35,8 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    </p>
    
+   ![](https://visitor-badge.glitch.me/badge?page_id=muskan2532150)
+   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=muskan2532150&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan2532150&langs_count=5&theme=tokyonight)]()

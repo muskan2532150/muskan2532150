@@ -6,15 +6,6 @@
 <div align="center">
 <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
 
-
-
-<!-- Adding social media Icons -->
-<!-- <p align="center">
- 
- 
- <a href="https://www.linkedin.com/in/muskan-gupta-869165225/"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"></a>
-</p> -->
-
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
 - 👨🏾‍💻 I’m currently learning _JavaScript, React_
@@ -49,17 +40,9 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan2532150&langs_count=5&theme=tokyonight)]()
 
-<!--
-**muskan2532150/muskan2532150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me via 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="muskan2532150"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" wdth="30" height="35">  </a>         
+<a href="https://www.linkedin.com/in/muskan-gupta-869165225/"><img width="32" height="40" alt="Lind" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+</p> 

@@ -8,7 +8,7 @@
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
-- 👨🏾‍💻 I’m currently learning _JavaScript, React_
+- 👨🏾‍💻 I’m currently working on JavaScript, React,RubyOnRails
 - I'm open for upcoming opportunities.
 
 - 📫 How to reach me **rg2532150@gmail.com**

@@ -43,10 +43,10 @@
 ### Connect with me via 
 
 <p align="left">
-<a href="muskan2532150">    
+<a href="https://twitter.com/muskan2532150">    
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" />
  </a>
-<a href="https://www.linkedin.com/in/muskan-gupta-869165225/">  
+<a href="https://www.linkedin.com/in/muskan-gupt">  
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
  </a>
 </p> 

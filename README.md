@@ -43,6 +43,10 @@
 ### Connect with me via 
 
 <p align="left">
-<a href="muskan2532150">   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" title="Twitter" wdth="30" height="35">       </a>
-<a href="https://www.linkedin.com/in/muskan-gupta-869165225/">   <img width="32" height="40" alt="Lind" title="Linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">       </a>
+<a href="muskan2532150">    
+ <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" />
+ </a>
+<a href="https://www.linkedin.com/in/muskan-gupta-869165225/">  
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
+ </a>
 </p> 

@@ -6,9 +6,9 @@
 <div align="center">
 <img src ="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Profile!+%F0%9F%98%80" ></div>
 
-<h3 align="left">A full-stack developer and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
+<h3 align="left">A Full-stack developer</h3>
 
-- 👨🏾‍💻 Currently working on JavaScript, React, RubyOnRails.
+- 👨🏾‍💻 Currently working on JavaScript, React, Nodejs.
 - Open for upcoming opportunities.
 
 - 📫 How to reach me **rg2532150@gmail.com**
